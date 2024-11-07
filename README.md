@@ -1,2 +1,2 @@
 # Shader Loch
-A big dump of shaders I make to learn something new or just for fun
+A big dump of shaders I made to learn something new or just for fun
